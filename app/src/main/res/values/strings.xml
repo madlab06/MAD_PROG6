@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prog6</string>
+    <string name="text2speechapp">Text2SpeechApp</string>
+    <string name="enter_the_text_to_be_converted">Enter the text to be converted</string>
+    <string name="convert">Convert</string>
+</resources>
